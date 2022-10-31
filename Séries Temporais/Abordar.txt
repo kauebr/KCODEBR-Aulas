@@ -1,0 +1,9 @@
+. O que são séries temporáis
+	Series temporáis no python
+
+. Maneiras de suavizar indicadores:
+	Somas Acumuladas
+	Média
+	Média Movel
+	Suavização Exponencial
+	No Py.
