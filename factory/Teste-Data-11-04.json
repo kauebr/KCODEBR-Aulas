@@ -1,0 +1,9 @@
+{
+	"name": "Teste-Data-11-04",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2818781c-b826-429e-b60e-730ff32e9e6f",
+		"tenantId": "5f52f562-6f32-4bc1-b3a0-879d9fe90966"
+	}
+}
